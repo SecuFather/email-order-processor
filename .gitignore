@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+*.crt
+*.key
+.env
+.DS_Store
+*.swp
+*.tsbuildinfo
+*.db
